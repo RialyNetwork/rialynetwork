@@ -1,0 +1,14 @@
+{
+  "name": "rialynetwork",
+  "version": "0.0.1",
+  "description": "",
+  "main": "rialy.js",
+  "scripts": {
+    "test": "node rialy.js"
+  },
+  "author": "RialyNetwork",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
